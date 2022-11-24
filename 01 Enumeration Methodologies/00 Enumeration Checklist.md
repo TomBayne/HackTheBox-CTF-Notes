@@ -11,7 +11,7 @@
 	[] If a HTTP(S) service is open:
 		[] [[04 Web Methodologies/Enumeration/00 Enumeration Checklist|Web Enumeration Checklist]]
 
-[] Reverse DNS Lookup
+[] [[Reverse DNS Lookup]]
 
 [] Subdomain Bruteforce
 
