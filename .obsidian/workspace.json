@@ -159,15 +159,15 @@
   },
   "active": "cb28e3ac7f0d9010",
   "lastOpenFiles": [
-    "02 Linux Methodologies/Foothold/Foothold Checklist.md",
     "04 Web Methodologies/Web Checklist.md",
+    "01 Enumeration Methodologies/Enumeration Checklist.md",
+    "02 Linux Methodologies/Foothold/Foothold Checklist.md",
     "README.md",
     "03 Windows Methodologies/Privilege Escalation/Privilege Escalation Checklist.md",
     "04 Web Methodologies/Command Injection/SQLi/SQLi Checklist.md",
     "04 Web Methodologies/Command Injection/Command Injection Checklist.md",
     "04 Web Methodologies/Enumeration/Enumeration Checklist.md",
     "03 Windows Methodologies/Foothold/Foothold Checklist.md",
-    "02 Linux Methodologies/Privilege Escalation/Privilege Escalation Checklist.md",
-    "03 Windows Methodologies/Foothold/Active Directory/Active Directory Checklist.md"
+    "02 Linux Methodologies/Privilege Escalation/Privilege Escalation Checklist.md"
   ]
 }

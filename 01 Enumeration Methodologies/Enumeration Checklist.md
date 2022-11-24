@@ -5,8 +5,15 @@
 		[] What does each service do, how could it be exploited?
 		[] Default credentials for services
 		[] Built-in [nmap scripts](https://nmap.org/nsedoc/scripts/) for services
-	[] Operating System Information
+	[] Check Operating System
+		[] [[03 Windows Methodologies/Foothold/Foothold Checklist|Windows Checklist]]
+		[] [[02 Linux Methodologies/Foothold/Foothold Checklist|Linux Checklist]]
+	[] If a HTTP(S) service is open:
+		[] [[04 Web Methodologies/Enumeration/Enumeration Checklist|Web Enumeration Checklist]]
 
 [] Reverse DNS Lookup
 
 [] Subdomain Bruteforce
+
+[] VHost Bruteforce
+
