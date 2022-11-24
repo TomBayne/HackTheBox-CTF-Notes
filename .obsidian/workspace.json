@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Enumeration Methodologies/CVE Databases.md",
+                "file": "01 Enumeration Methodologies/00 Enumeration Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Enumeration Methodologies/CVE Databases.md",
+                "file": "01 Enumeration Methodologies/00 Enumeration Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Enumeration Methodologies/CVE Databases.md",
+                "file": "01 Enumeration Methodologies/00 Enumeration Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Enumeration Methodologies/CVE Databases.md"
+                "file": "01 Enumeration Methodologies/00 Enumeration Checklist.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "2a8db8675ea938c9",
   "lastOpenFiles": [
-    "01 Enumeration Methodologies/00 Enumeration Checklist.md",
     "01 Enumeration Methodologies/CVE Databases.md",
+    "01 Enumeration Methodologies/00 Enumeration Checklist.md",
     "04 Web Methodologies/00 Web Checklist.md",
     "02 Linux Methodologies/Foothold/00 Foothold Checklist.md",
     "README.md",
