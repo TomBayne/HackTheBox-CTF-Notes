@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Linux Methodologies/Foothold/Enumeration/Enumeration Checklist.md",
+                "file": "01 Enumeration Methodologies/Enumeration Checklist.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Linux Methodologies/Foothold/Enumeration/Enumeration Checklist.md",
+                "file": "01 Enumeration Methodologies/Enumeration Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Linux Methodologies/Foothold/Enumeration/Enumeration Checklist.md",
+                "file": "01 Enumeration Methodologies/Enumeration Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,26 +138,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Linux Methodologies/Foothold/Enumeration/Enumeration Checklist.md"
+                "file": "01 Enumeration Methodologies/Enumeration Checklist.md"
               }
             }
+          },
+          {
+            "id": "c615dce6f2c6f3d2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 220.5
   },
   "active": "cb28e3ac7f0d9010",
   "lastOpenFiles": [
     "02 Linux Methodologies/Foothold/Foothold Checklist.md",
-    "01 Web Methodologies/Web Checklist.md",
+    "04 Web Methodologies/Web Checklist.md",
     "README.md",
     "03 Windows Methodologies/Privilege Escalation/Privilege Escalation Checklist.md",
-    "01 Web Methodologies/Command Injection/SQLi/SQLi Checklist.md",
-    "01 Web Methodologies/Command Injection/Command Injection Checklist.md",
-    "01 Web Methodologies/Enumeration/Enumeration Checklist.md",
+    "04 Web Methodologies/Command Injection/SQLi/SQLi Checklist.md",
+    "04 Web Methodologies/Command Injection/Command Injection Checklist.md",
+    "04 Web Methodologies/Enumeration/Enumeration Checklist.md",
     "03 Windows Methodologies/Foothold/Foothold Checklist.md",
     "02 Linux Methodologies/Privilege Escalation/Privilege Escalation Checklist.md",
     "03 Windows Methodologies/Foothold/Active Directory/Active Directory Checklist.md"
