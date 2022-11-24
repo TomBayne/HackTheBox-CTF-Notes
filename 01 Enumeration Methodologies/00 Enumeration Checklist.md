@@ -2,8 +2,8 @@
 	[] Open Ports
 	[] Services, Service Versions
 		[] Check for [[CVE Databases|CVEs]]
-		[] What does each service do, how could it be exploited?
-		[] Default credentials for services
+		[] What does each service do (check docs), how could it be exploited?
+		[] Default credentials for services (check docs)
 		[] Built-in [nmap scripts](https://nmap.org/nsedoc/scripts/) for services
 	[] Check Operating System
 		[] [[03 Windows Methodologies/Foothold/00 Foothold Checklist|Windows Checklist]]
@@ -13,7 +13,4 @@
 
 [] [[Reverse DNS Lookup]]
 
-[] Subdomain Bruteforce
-
-[] VHost Bruteforce
-
+[] [[Subdomain & vHost Bruteforcing]]
