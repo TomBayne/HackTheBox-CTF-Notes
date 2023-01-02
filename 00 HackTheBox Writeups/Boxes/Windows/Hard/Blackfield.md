@@ -1,3 +1,4 @@
+___
 ## Skills covered
 
 - SMB Enumeration (Enumerating users via anonymous login)
@@ -8,6 +9,7 @@
 - Enumerating a domain using Bloodhound
 - Use of RPCClient
 
+___
 ## Enumeration
 
 Begin by running an `nmap` scan of the IP address.
