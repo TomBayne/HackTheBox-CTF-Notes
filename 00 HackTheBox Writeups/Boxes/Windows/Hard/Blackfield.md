@@ -7,7 +7,20 @@ ___
 - Using WinRM Privileges
 - Abusing Backup Operators Privileges
 - Enumerating a domain using Bloodhound
-- Use of RPCClient
+
+___
+## Tools used
+
+- NMap
+- SMBMap
+- SMBClient
+- Impacket Tools
+- John
+- Bloodhound
+- RPCClient
+- PyPyKatz
+- LDAPSearch
+- CrackMapExec
 
 ___
 ## Enumeration
