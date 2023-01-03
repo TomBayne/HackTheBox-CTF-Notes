@@ -3,9 +3,9 @@ You can bruteforce subdomains using a wordlist and `gobuster`. This will connect
 
 - **-u**: specifies the base URL to bruteforce.
 - **-w**: specifies the wordlist to use for the attack
-- **-t**: specifies the number of threads (simultanous attacks)
+- **-t**: specifies the number of threads (simultaneous attacks)
 
-This requires a worldlist. On some poorly formatted words from the world list, you may find that you get `Status: 400`. These can be ignored, they are not real results.
+This requires a wordlist. On some poorly formatted words from the world list, you may find that you get `Status: 400`. These can be ignored, they are not real results.
 
 You can use a very similar command to bruteforce VHosts. This is when the same IP hosts multiple domains (i.e. `example.com` and `website.com` are both on the IP address `10.10.10.1`)
 

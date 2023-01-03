@@ -185,3 +185,7 @@ Invoke-Command -Computer 127.0.0.1 -Credential $Cred -ScriptBlock { C:/Users/Mis
 *The user flag is located at `C:\Users\miscsvc\Desktop`*
 
 ## Privilege Escalation
+
+Privilege Escalation in this box involves the unknown service on Port 4411. From browsing the shares available to the MiscSvc user, the `.exe` and `.dll` for this service is located in `C:/Shares/IT/Apps/Sales Order Client`.
+
+Download these files and open the with `DnSpy`. 
