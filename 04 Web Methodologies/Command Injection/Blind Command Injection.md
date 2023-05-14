@@ -1,0 +1,1 @@
+Not all vulnerable web apps will display outputs of injected commands on the webpage. You can use commands like `ping` and `sleep` to 'freeze up' an application to detect a blind command injection
